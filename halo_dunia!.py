@@ -10,3 +10,5 @@ Original file is located at
 print('Halo Dunia!')
 print('Belajar AI!')
 print('yes!')
+print('Fanisaa adalah nama saya!')
+print('Salam kenal dari saya!')
